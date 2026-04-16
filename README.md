@@ -96,7 +96,8 @@ vintageletter/
 ├── LICENSE                # LPPL 1.3c
 └──examples/
      ├── example-english.tex        # English letter example source file
-     └── example-english.pdf        # English letter example
+     ├── example-english.pdf        # English letter example
+     └── preview.png			 # Letter preview
 
 ```
 
