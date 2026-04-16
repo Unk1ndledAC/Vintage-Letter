@@ -1,0 +1,133 @@
+LaTeX Project Public License
+===========================
+
+LPPL Version 1.3c  2008-05-04
+
+Copyright (C) 2026 VintageLetter Contributors
+
+Everyone is allowed to distribute verbatim copies of this
+license document, but modification of it is not allowed.
+
+
+PREAMBLE
+========
+
+The LaTeX Project Public License (LPPL) is the primary license under which
+the LaTeX kernel and the base LaTeX packages are distributed.
+
+You may use this license for any work of which you do not wish to use any
+other license, and which is a software project intended to be used as part
+of or in conjunction with the LaTeX typesetting system.
+
+You may distribute a covered work under any license terms you wish that
+are compatible with the LPPL. We especially encourage the use of free
+software licenses that are compatible with the LPPL.
+
+
+WARRANTY
+========
+
+There is no warranty for The Work. Except when otherwise stated in writing,
+the copyright holders and/or other parties provide The Work `as is', without
+warranty of any kind, either expressed or implied, including, but not
+limited to, the implied warranties of merchantability and fitness for a
+particular purpose.
+
+
+DEFINITIONS
+===========
+
+In this license document the following terms are used:
+
+   `The Work'
+    Any work being distributed under this License.
+
+   `Derived Work'
+    Any work that under any applicable law is derived from The Work.
+
+   `Modification'
+    Any procedure that produces a Derived Work under any applicable
+    law -- for example, the production of a file containing an
+    original file associated with The Work or a significant portion of
+    such a file, either verbatim or with modifications and/or
+    translated into another language.
+
+   `Modify'
+    To apply any procedure that produces a Derived Work under any
+    applicable law.
+
+   `Distribution'
+    Making available copies of The Work to the public or to a specific
+    person or persons.
+
+   `The Program'
+    A Derived Work distributed under this License.
+
+   `The Copyright Holder'
+    The person(s) or organization(s) holding the copyright of The Work.
+
+   `The Current Maintainer'
+    The person(s) or organization(s) officially designated as the
+    Current Maintainer of The Work.
+
+   `Base Interpreter'
+    A program or process that is normally needed for running or
+    interpreting a part or the whole of The Work.
+
+
+CONDITIONS ON DISTRIBUTION AND MODIFICATION
+===========================================
+
+1.  Activities other than distribution and/or modification of The Work
+    are not covered by this license; they are outside its scope. In
+    particular, the act of running the Program is not restricted and no
+    requirements are made concerning any offers of support for The Work.
+
+2.  You may distribute a complete, unmodified copy of The Work as you
+    received it. Distribution of only part of The Work is considered
+    modification of The Work, and no right to distribute such a Derived
+    Work may be assumed under the terms of this clause.
+
+3.  You may distribute a Compiled Work that has been generated from a
+    complete, unmodified copy of The Work as distributed under Clause 2
+    above, as long as that Compiled Work is distributed in such a way that
+    the recipients may install the Compiled Work on their system exactly
+    as it would have been installed if they generated a Compiled Work
+    directly from The Work.
+
+4.  You may modify your copy or copies of The Work or any portion of it,
+    thus forming a Derived Work, and distribute such modifications under
+    the terms of Clause 2 above, provided that you also meet all of these
+    conditions:
+
+    a) You must cause the modified files to carry prominent notices
+       stating that you changed the files and the date of any change; and
+
+    b) You must cause any work that you distribute or publish, that in
+       whole or in part contains or is derived from the Work or any part
+       thereof, to be licensed as a whole at no charge to all third
+       parties under the terms of this License.
+
+5.  You are not required to accept this License, since you have not
+    signed it. However, nothing else grants you permission to modify or
+    distribute the Work or its Derivative Works. These actions are
+    prohibited by law if you do not accept this License. Therefore, by
+    modifying or distributing the Work (or any work based on the Work),
+    you indicate your acceptance of this License to do so, and all its
+    terms and conditions for copying, distributing or modifying the Work
+    or works based on it.
+
+
+NO WARRANTY
+===========
+
+BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN
+OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE
+ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH
+YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
+NECESSARY SERVICING, REPAIR OR CORRECTION.
+
